@@ -1,0 +1,17 @@
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/bin/Debug/net9.0/linux-x64/WebScraper
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/bin/Debug/net9.0/linux-x64/WebScraper.deps.json
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/bin/Debug/net9.0/linux-x64/WebScraper.runtimeconfig.json
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/bin/Debug/net9.0/linux-x64/WebScraper.dll
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/bin/Debug/net9.0/linux-x64/WebScraper.pdb
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.GeneratedMSBuildEditorConfig.editorconfig
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.AssemblyInfoInputs.cache
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.AssemblyInfo.cs
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.csproj.CoreCompileInputs.cache
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.dll
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/refint/WebScraper.dll
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.pdb
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.genruntimeconfig.cache
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/ref/WebScraper.dll
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/bin/Debug/net9.0/linux-x64/HtmlAgilityPack.dll
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.csproj.AssemblyReference.cache
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.csproj.Up2Date

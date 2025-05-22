@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qzLDSgecGNI=",
+  "success": true,
+  "projectFilePath": "/home/garjo/MostProjects/GitHub-Scraper/WebScraper/WebScraper.csproj",
+  "expectedPackageFiles": [
+    "/home/garjo/.nuget/packages/htmlagilitypack/1.12.1/htmlagilitypack.1.12.1.nupkg.sha512"
+  ],
+  "logs": []
+}
