@@ -1,4 +1,6 @@
+using System;
 using System.Collections.Generic;
+using WebScraper.Services;
 namespace WebScraper.Models
 {
     public class RepositoryInfo
@@ -11,6 +13,11 @@ namespace WebScraper.Models
         public string OpenIssues { get; set; }
         public List<Contributor> TopContributors { get; set; } = new();
         public List<LanguageInfo> Languages { get; set; } = new();
-        // TODO: CommitsLast7Days
+
+        public int CommitsLast7Days { get; set; }
+        public bool IsArchived { get; set; }
+        public DateTime? LastContributionDate { get; set; }
+        public RepositoryStatus Status { get; set; } = RepositoryStatus.Unknown;
+        // TODO: LastMaintainerResponse ? ? ? 
     }
 }

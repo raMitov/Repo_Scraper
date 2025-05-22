@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qzLDSgecGNI=",
+  "dgSpecHash": "wkMW93FuQqY=",
   "success": true,
   "projectFilePath": "/home/garjo/MostProjects/GitHub-Scraper/WebScraper/WebScraper.csproj",
   "expectedPackageFiles": [
-    "/home/garjo/.nuget/packages/htmlagilitypack/1.12.1/htmlagilitypack.1.12.1.nupkg.sha512"
+    "/home/garjo/.nuget/packages/htmlagilitypack/1.12.1/htmlagilitypack.1.12.1.nupkg.sha512",
+    "/home/garjo/.nuget/packages/octokit/14.0.0/octokit.14.0.0.nupkg.sha512"
   ],
   "logs": []
 }

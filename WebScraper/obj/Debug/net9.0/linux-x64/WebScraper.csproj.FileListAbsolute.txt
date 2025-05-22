@@ -15,3 +15,5 @@
 /home/garjo/MostProjects/GitHub-Scraper/WebScraper/bin/Debug/net9.0/linux-x64/HtmlAgilityPack.dll
 /home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.csproj.AssemblyReference.cache
 /home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.csproj.Up2Date
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/obj/Debug/net9.0/linux-x64/WebScraper.sourcelink.json
+/home/garjo/MostProjects/GitHub-Scraper/WebScraper/bin/Debug/net9.0/linux-x64/Octokit.dll

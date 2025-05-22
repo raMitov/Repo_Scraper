@@ -14,6 +14,19 @@
             "related": ".deps.json;.pdb;.xml"
           }
         }
+      },
+      "Octokit/14.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Octokit.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Octokit.dll": {
+            "related": ".xml"
+          }
+        }
       }
     },
     "net9.0/linux-x64": {
@@ -27,6 +40,19 @@
         "runtime": {
           "lib/net8.0/HtmlAgilityPack.dll": {
             "related": ".deps.json;.pdb;.xml"
+          }
+        }
+      },
+      "Octokit/14.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Octokit.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Octokit.dll": {
+            "related": ".xml"
           }
         }
       }
@@ -77,11 +103,26 @@
         "lib/uap10.0/HtmlAgilityPack.pri",
         "readme.md"
       ]
+    },
+    "Octokit/14.0.0": {
+      "sha512": "jGOuTH1l+TCpJH+fwYOp7USzHDuGfN1jKbLz3J2COwyn+wL08eynvpnM6rY2qkzIEXum3PN2p2QkP3BW/p9Qcw==",
+      "type": "package",
+      "path": "octokit/14.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Octokit.dll",
+        "lib/netstandard2.0/Octokit.xml",
+        "octokit.14.0.0.nupkg.sha512",
+        "octokit.nuspec",
+        "octokit.png"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "HtmlAgilityPack >= 1.12.1"
+      "HtmlAgilityPack >= 1.12.1",
+      "Octokit >= 14.0.0"
     ]
   },
   "packageFolders": {
@@ -130,6 +171,10 @@
           "HtmlAgilityPack": {
             "target": "Package",
             "version": "[1.12.1, )"
+          },
+          "Octokit": {
+            "target": "Package",
+            "version": "[14.0.0, )"
           }
         },
         "imports": [

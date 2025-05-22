@@ -47,6 +47,10 @@
             "HtmlAgilityPack": {
               "target": "Package",
               "version": "[1.12.1, )"
+            },
+            "Octokit": {
+              "target": "Package",
+              "version": "[14.0.0, )"
             }
           },
           "imports": [
