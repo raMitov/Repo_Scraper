@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text.Json;
 using System.Threading.Tasks;
+using System.Net.Http.Headers;  
 
 namespace WebScraper.Services
 {
@@ -10,11 +11,18 @@ namespace WebScraper.Services
     public class LastSevenDays
     {
         private readonly HttpClient _httpClient;
-        public LastSevenDays()
+
+        public LastSevenDays(string token)
         {
             //Making a client and issuing a request to github API
             _httpClient = new HttpClient();
             _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd("request");
+             if (!string.IsNullOrWhiteSpace(token))
+            {
+                _httpClient.DefaultRequestHeaders.Authorization =
+                    new AuthenticationHeaderValue("Bearer", token);
+            }
+            
         }
 
         public async Task<int> GetCommitCountLast7DaysAsync(string owner, string repo)

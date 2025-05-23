@@ -1,11 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "wkMW93FuQqY=",
-  "success": true,
+  "dgSpecHash": "pha4+kSnMiw=",
+  "success": false,
   "projectFilePath": "/home/garjo/MostProjects/GitHub-Scraper/WebScraper/WebScraper.csproj",
   "expectedPackageFiles": [
     "/home/garjo/.nuget/packages/htmlagilitypack/1.12.1/htmlagilitypack.1.12.1.nupkg.sha512",
     "/home/garjo/.nuget/packages/octokit/14.0.0/octokit.14.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.arch-x64. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Microsoft.NETCore.App.Host.arch-x64",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }
